@@ -1,0 +1,18 @@
+{
+  "name": "angular-foundation-bower",
+  "dependencies": {
+    "components/foundation": "*"
+  },
+  "main": "mm-foundation-tpls.js",
+  "scripts": [
+    "mm-foundation-tpls.js"
+  ],
+  "styles": [
+    
+  ],
+  "templates": [
+    
+  ],
+  "files": [
+  ]
+}
