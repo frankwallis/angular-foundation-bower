@@ -1,7 +1,7 @@
 {
   "name": "angular-foundation-bower",
   "dependencies": {
-    "frankwallis/foundation": "5.4.0"
+    "components/foundation": "5.4.3"
   },
   "main": "mm-foundation-tpls.js",
   "scripts": [
