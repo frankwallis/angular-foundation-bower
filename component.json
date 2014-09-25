@@ -1,7 +1,7 @@
 {
   "name": "angular-foundation-bower",
   "dependencies": {
-    "components/foundation": "5.4.3"
+    "components/foundation": "5.4.4"
   },
   "main": "mm-foundation-tpls.js",
   "scripts": [
